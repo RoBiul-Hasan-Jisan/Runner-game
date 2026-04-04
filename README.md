@@ -190,7 +190,7 @@ g++ -o templaterun.exe main.cpp -lfreeglut -lopengl32 -lglu32
 
 - Dynamic difficulty scaling
 
-  ## ## 👨‍💻 Author
+ ## 👨‍💻 Author
 **Robiul Hasan Jisan**
 
 - **Portfolio:** [robiulhasanjisan.vercel.app](https://robiulhasanjisan.vercel.app/)
